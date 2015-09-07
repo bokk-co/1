@@ -2,10 +2,10 @@ Presentation
 =======
 Bokk is a mobile android app designed to ease customers' bookkeeping for shopkeepers.
 It is composed of a calculator, a ledger and a phone directory.
-All the operations are registered in a digital book displaying key figures and analytics,
+All the operations are registered in a digital book displaying key figures and analytics.
 Providing quick check-up of customers' accounts and of business activites.
 
-Building from the code written by Rahul Parsani for the material calculator (2014),
+Building from the code written by Rahul Parsani for the material calculator (2014).
 We are working towards integrating the ledger and phone directory components.
 Contact: info@bokk.co
 
